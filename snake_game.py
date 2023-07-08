@@ -1,27 +1,3 @@
-#  just open window
-
-# import pygame
-# pygame.init()
-# dis=pygame.display.set_mode((400,300))
-# pygame.display.update()
-# pygame.quit()
-# quit()
-
-# long time window open
-
-# import pygame
-# pygame.init()
-# dis=pygame.display.set_mode((400,300))
-# pygame.display.update()
-# pygame.display.set_caption('Snake game by Shamim Reza')
-# game_over=False
-# while not game_over:
-#     for event in pygame.event.get():
-#         print('ok', event)   #prints out all the actions that take place on the screen
- 
-# pygame.quit()
-# quit()
-
 import pygame
 import time
 pygame.init()
