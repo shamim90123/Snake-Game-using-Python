@@ -9,7 +9,7 @@ red = (255, 0, 0)
 dis_width = 800
 dis_height  = 600
 dis = pygame.display.set_mode((dis_width, dis_width))
-pygame.display.set_caption('Snake Game by Edureka')
+pygame.display.set_caption('Snake Game by Shamim')
  
 game_over = False
  
